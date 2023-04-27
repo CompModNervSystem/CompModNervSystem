@@ -15,7 +15,7 @@ Links to all the exercises in the course can be found below. Links that are curr
 
 [Exercise 7: Simulating the Hodgkin-Huxley model in NEURON, part II](https://github.com/CompModNervSystem/CompModNervSys-HH2)
 
-Exercise 8: Simulating action potential propagation in myelinated and unmyelinated axons
+[Exercise 8: Simulating action potential propagation in myelinated and unmyelinated axons](https://github.com/CompModNervSystem/CompModNervSys-CableAxon)
 
 Exercise 9: Simulating synaptic inputs to passive models
 
