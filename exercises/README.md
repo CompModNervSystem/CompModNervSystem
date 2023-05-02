@@ -17,7 +17,7 @@ Links to all the exercises in the course can be found below. Links that are curr
 
 [Exercise 8: Simulating action potential propagation in myelinated and unmyelinated axons](https://github.com/CompModNervSystem/CompModNervSys-CableAxon)
 
-Exercise 9: Simulating synaptic inputs to ball-and-stick neuron models
+[Exercise 9: Simulating synaptic inputs to ball-and-stick neuron models] (https://github.com/CompModNervSystem/CompModNervSys-BallAndStickSynapses)
 
 Exercise 10: Simulating synaptic inputs and action potential firing with ball-and-stick model of pyramidal neuron
 
