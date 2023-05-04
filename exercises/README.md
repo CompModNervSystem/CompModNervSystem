@@ -19,7 +19,7 @@ Links to all the exercises in the course can be found below. Links that are curr
 
 [Exercise 9: Simulating synaptic inputs to ball-and-stick neuron models](https://github.com/CompModNervSystem/CompModNervSys-BallAndStickSynapses)
 
-Exercise 10: Simulating synaptic inputs and action potential firing with ball-and-stick model of pyramidal neuron
+[Exercise 10: Nonlinear synaptic mechanisms in dendrites](https://github.com/CompModNervSystem/CompModNervSys-NonLinearDendrites)
 
 Exercise 11: Leaky integrate and fire (LIF) and  Fitzhugh-Nagumo models
 
