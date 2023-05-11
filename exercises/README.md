@@ -21,12 +21,10 @@ Links to all the exercises in the course can be found below. Links that are curr
 
 [Exercise 10: Nonlinear synaptic mechanisms in dendrites](https://github.com/CompModNervSystem/CompModNervSys-NonLinearDendrites)
 
-Exercise 11: Leaky integrate and fire (LIF) and  Fitzhugh-Nagumo models
+[Exercise 11: Izhichevich neuron network and Brunel network of leaky integrate and fire (LIF) neurons](https://github.com/CompModNervSystem/CompModNervSys-IzhiNet)
 
-Exercise 12: Izhichevich neuron network and Brunel network of leaky integrate and fire (LIF) neurons
+Exercise 12: Modeling electrical stimulation of peripheral axons with the activating function
 
-Exercise 13: Modeling electrical stimulation of peripheral axons with the activating function
-
-Exercise 14: Modeling compound action potentials evoked by electrical stimulation
+Exercise 13: Modeling compound action potentials evoked by electrical stimulation
 
 
