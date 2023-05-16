@@ -23,7 +23,7 @@ Links to all the exercises in the course can be found below. Links that are curr
 
 [Exercise 11: Izhichevich neuron network and Brunel network of leaky integrate and fire (LIF) neurons](https://github.com/CompModNervSystem/CompModNervSys-IzhiNet)
 
-Exercise 12: Modeling electrical stimulation of peripheral axons with the activating function
+[Exercise 12: Modeling electrical stimulation of axons](https://github.com/CompModNervSystem/CompModNervSys-ExtracellularStim)
 
 Exercise 13: Modeling compound action potentials evoked by electrical stimulation
 
