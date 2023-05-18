@@ -25,6 +25,6 @@ Links to all the exercises in the course can be found below. Links that are curr
 
 [Exercise 12: Modeling electrical stimulation of axons](https://github.com/CompModNervSystem/CompModNervSys-ExtracellularStim)
 
-Exercise 13: Modeling compound action potentials evoked by electrical stimulation
+[Exercise 13: Modeling extracellular action potential recordings](https://github.com/CompModNervSystem/CompModNervSys-ExtracellularRec)
 
 
