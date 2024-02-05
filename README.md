@@ -3,7 +3,7 @@
 
 This repository contains course materials for the Computational Modeling of the Nervous System (Biol74.03/Biol177) offered at Dartmouth College.
 
-You can find the syllabus [here](https://docs.google.com/document/d/1zyncq3cRnoLq6Ha-_GUp3cKewd20cjGTPC_xapx-Oy0/edit) and a link to all exercises [here](https://github.com/CompModNervSystem/CompModNervSystem/tree/main/exercises)
+You can find the syllabus [here](https://docs.google.com/document/d/1ow-h_6V3g89aZ7iHeo_yJW3xh3MkHT4pvXPPNdWci-o/edit?usp=share_link) and a link to all exercises [here](https://github.com/CompModNervSystem/CompModNervSystem/tree/main/exercises)
 
 # Student Instructions
 
